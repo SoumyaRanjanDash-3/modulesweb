@@ -7,7 +7,7 @@ public class Validator{
 	
 	public void setNamePassword(){
 		name = "soumya";
-		password = "ranjan";
+		password = "dash";
 	}
 	
 	public boolean validateUser(String nameParam, String passwdParam){
