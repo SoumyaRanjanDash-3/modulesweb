@@ -2,4 +2,4 @@ version: 0.0
 os: linux
 files:
   - source: /presentation/target/*.war
-    destination: /var/www/html/WordPress
+    destination: /var/www/html/
