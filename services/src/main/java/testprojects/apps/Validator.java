@@ -6,7 +6,7 @@ public class Validator{
 	String password="";
 	
 	public void setNamePassword(){
-		name = "soumya";
+		name = "soumyaranjan";
 		password = "dash";
 	}
 	
